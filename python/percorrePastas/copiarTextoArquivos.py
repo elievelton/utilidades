@@ -10,4 +10,4 @@ for root, dirs, files in os.walk("./sons"):
         all_files.write(fileContent + '\n')
 
 all_files.close()
-print("juntou os textos com sucesso!")
+print("juntou os textos com sucesso!!")
