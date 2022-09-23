@@ -6,3 +6,4 @@ As bibliotecas PySimpleGUI e Pytube
 # Instale de forma global o pip instal pytube
 
 Salve o executavel na area de trabalho ele esta na pasta dist
+Esse programa foi feito para ser executado no Windows
